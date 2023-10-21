@@ -1,39 +1,51 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw5ZDVqdmpyOXY2aGN0bjBxeHBkN3hucGR6MDE2M2k1enFwamZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQsHPXWUijXGwdEGeZ/giphy.gif" width="200"/>
-</div>
+<p><img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="250"  /></p>
+<p><img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdoNDF6bGl3Y3AwdmltcGZrcHBoNnh1bjc3MWEwNXdxemV4aXk1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="212"/></p>
 
-<div align="center">
-  <h1>
-    Hi there🖖
-  </h1>
-</div> 
 
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+
+<h2 align="center">
+🌱 I'm Software Java Developer
+</h2>
+
+
+  ---
+
+## 🛠 &nbsp;Languages and Tools :
 <p>
-  🌱 I’m currently learning:
-  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="java" height="30"/></code></a>
-           <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="30"/></code></a>
+    <code><img title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/></code></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <code><img title="Spring" alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/></code></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="linux" height="30"/></code></a>
+    <code><img title="Linux" alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" height="30"/></code></a>
+    <code><img title="Docker" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/></code></a>
+    <code><img title="Git" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/></code></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <code><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" height="30"/></code></a>
+    <code><img title="PostgreSql" alt="PostgreSql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="30"/></code></a>
-
+    <code><img title="Postman"  alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code></a>
 </p>
 
-#
+---
+
+## 📈 GitHub Stats
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elgordogato&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=radical&&hide=stars&hide_border=true&rank_icon=percentile" alt="elGordoGato's github stats" /></a> |                   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elGordoGato&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />                   |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+|                                                      <a href="https://github.com/elgordogato/explore-with-me"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elgordogato&repo=explore-with-me&theme=radical&hide_border=true"  alt="Top Repositories"/></a>                                                       | <a href="https://github.com/elgordogato/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgordogato&layout=compact&theme=radical&hide_border=true" /></a> |
+
+
+
+
+<br></br>
+
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw5ZDVqdmpyOXY2aGN0bjBxeHBkN3hucGR6MDE2M2k1enFwamZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQsHPXWUijXGwdEGeZ/giphy.gif" width="200" alt="logo"/>
+</div> 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=elGordoGato&style=flat-square&color=green" alt="" />
 </div>
