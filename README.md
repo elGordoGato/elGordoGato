@@ -44,14 +44,14 @@ In this poster, you can suggest any event from an exhibition to a movie and gath
 - [**Share It**:](https://github.com/elGordoGato/java-shareit) A sharing app for things. Allows you to offer your things for rent; 
 find and rent things offered by other users. 
 
->_***Stack***: REST API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Junit, MockMVC, Docker._
+>_***Stack***: RESTful API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Junit, MockMVC, Docker._
 
 ---
 
 - [**Filmorate** _(Group Project):_](https://github.com/AlexeiRomanchenko/java-filmorate)  A social network with a rating of films
 and an algorithm for selecting film recommendations based on the ratings of similar users. _My Role: user-based recommendation system and search._
 
->_***Stack***: REST API service with Spring-Boot, Jdbc, H2-database, Java 11, Lombok, Junit._
+>_***Stack***: RESTful API service with Spring-Boot, Jdbc, H2-database, Java 11, Lombok, Junit._
 
 ---
 
@@ -67,24 +67,26 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 
 <p><img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw5ZDVqdmpyOXY2aGN0bjBxeHBkN3hucGR6MDE2M2k1enFwamZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQsHPXWUijXGwdEGeZ/giphy.gif" width="200" alt="logo"/></p>
 
-<details>
- <summary><strong>📫 Contact Me</strong></summary>&nbsp;
-<a href="https://linkedin.com/in/elgordogato"><img align='center' height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"></a>
-<a href="mailto:4leonv@gmail.com"><img align='center' height="35" src="icons/gmail.png"></a>
+
+### 📫 Contact Me <br>
+<a href="https://linkedin.com/in/elgordogato"><img align='center' height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"></a>&nbsp;&nbsp;
+<a href="mailto:4kleonv@gmail.com"><img align='center' height="35" src="icons/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/kumar_lv"><img align='center' height="35" src="icons/telegram.svg"></a>
-</details>
-<details><summary>🌟 Fun fact</summary>
-
-- I'm a former seafarer 🚢
-
-
-</details>
 
 ---
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=elGordoGato&style=flat-square&color=green" alt="" />
-</div>
+
+
+
+<p>
+<img align="right" src="https://komarev.com/ghpvc/?username=elGordoGato&style=flat-square&color=green" alt="" />
+
+<details><summary><strong>🌟 Fun fact</strong></summary>
+
+> I'm a former seafarer 🚢
+
+
+</details>
 
 
 <!--
