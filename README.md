@@ -68,12 +68,13 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 <p><img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw5ZDVqdmpyOXY2aGN0bjBxeHBkN3hucGR6MDE2M2k1enFwamZsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQsHPXWUijXGwdEGeZ/giphy.gif" width="200" alt="logo"/></p>
 
 
-<h3 align="center"> 📫 Contact Me 
+<h3 align="center"> 📫 Contact Me<br><br>
 
-<a href="https://linkedin.com/in/elgordogato"><img align='center' height="32" src="icons/linkedin.png"></a> &nbsp;
-<a href="mailto:4kleonv@gmail.com"><img align='center' height="35" src="icons/gmail.png"></a> &nbsp;
-<a href="https://t.me/kumar_lv"><img align='center' height="30" src="icons/telegram.svg"></a>
-</h3><br>
+  <a href="https://linkedin.com/in/elgordogato"><img align='center' height="32" src="icons/linkedin.png"></a> &nbsp;
+  <a href="mailto:4kleonv@gmail.com"><img align='center' height="35" src="icons/gmail.png"></a> &nbsp;
+  <a href="https://t.me/kumar_lv"><img align='center' height="30" src="icons/telegram.svg"></a>
+
+</h3>
 
 ---
 
