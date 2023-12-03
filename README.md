@@ -1,4 +1,4 @@
-<p><img align='right' width="215" 
+<p><img align='right' width="240" 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" alt="awesome cat"/></p>
 
 <h1 align="center">Hi, I’m Leonid 👋</h1>
