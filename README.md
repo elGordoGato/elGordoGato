@@ -86,7 +86,7 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 
 <details><summary><strong>🌟 Fun fact</strong></summary>
 
-> I'm a former seafarer 🚢
+ `I'm a former seafarer 🚢`
 
 
 </details>
