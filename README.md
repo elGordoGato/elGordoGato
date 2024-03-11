@@ -34,24 +34,25 @@ I’m passionate about Java and always eager to learn new things and improve my 
 ### 📚 Projects
 Here are some of the projects that I have worked on or contributed to:
 
-- [**Explore With Me**:](https://github.com/elGordoGato/explore-with-me) An application that creates a poster. 
-In this poster, you can suggest any event from an exhibition to a movie and gather a company to participate in it.
+- [**Monitoring Service**:](https://github.com/elGordoGato/monitoring-service) An application for submitting meter readings.
+  - Clean Architecture;
+  - Implemented user action auditing and benchmarking using Spring AOP in separate starters.
 
->_***Stack***: RESTful API service with Spring Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Docker, Swagger._
+>_***Stack:*** Java 17, Spring (Boot, Security, Data JDBC, AOP), PostgreSQL, Liquibase, Maven, Lombok, Mapstruct, Docker, Swagger, JUnit, Mockito, AssertJ, Testcontainers._
 
 ---
 
-- [**Share It**:](https://github.com/elGordoGato/java-shareit) A sharing app for things. Allows you to offer your things for rent; 
-find and rent things offered by other users. 
+- [**Explore With Me**:](https://github.com/elGordoGato/explore-with-me) An application that creates a poster. 
+In this poster, you can suggest any event from an exhibition to a movie and gather a company to participate in it.
 
->_***Stack***: RESTful API service with Spring-Boot, JPA Hibernate, PostgreSQL, Java 11, Lombok, Junit, MockMVC, Docker._
+>_RESTful API service with Java 11, Spring (Boot, Data JPA), PostgreSQL, Lombok, Docker, Swagger._
 
 ---
 
 - [**Filmorate** _(Group Project):_](https://github.com/AlexeiRomanchenko/java-filmorate)  A social network with a rating of films
 and an algorithm for selecting film recommendations based on the ratings of similar users. _My Role: user-based recommendation system and search._
 
->_***Stack***: RESTful API service with Spring-Boot, Jdbc, H2-database, Java 11, Lombok, Junit._
+>_RESTful API service with Java 11, Spring (Boot, Data JDBC), Lombok, Junit._
 
 ---
 
