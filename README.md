@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3
 <h1 align="center">Hi, I’m Leonid 👋</h1>
 
 <h5 align="center">
-🌱 I’m a Java developer with 1 year of experience in building RESTful Web Services using Spring Boot.<br>
+🌱 I’m a Java developer with 1 year of experience in building RESTful Web Services using Spring<br>
 I’m passionate about Java and always eager to learn new things and improve my skills.
 </h5>
 
