@@ -4,8 +4,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3
 <h1 align="center">Hi, I’m Leonid 👋</h1>
 
 <h5 align="center">
-🌱 I’m a Java developer with 1 year of experience in building RESTful Web Services using Spring<br>
-I’m passionate about Java and always eager to learn new things and improve my skills.
+“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” <br>
+- Mosher’s Law of Software Engineering
 </h5>
 
 
@@ -56,11 +56,15 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 
 ---
 
-### 📈 GitHub Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elgordogato&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent&&hide=stars&hide_border=true&rank_icon=percentile" alt="elGordoGato's github stats" /></a> |                   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elGordoGato&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />                   |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-|                                                      <a href="https://github.com/elgordogato/explore-with-me"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elgordogato&repo=explore-with-me&theme=transparent&hide_border=true"  alt="Top Repositories"/></a>                                                       | <a href="https://github.com/elgordogato/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgordogato&layout=compact&theme=transparent&hide_border=true" /></a> |
+[//]: # (### 📈 GitHub Stats)
 
+[//]: # (| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elgordogato&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent&&hide=stars&hide_border=true&rank_icon=percentile" alt="elGordoGato's github stats" /></a> |                   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=elGordoGato&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />                   |)
+
+[//]: # (|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| )
+
+[//]: # (|                                                      <a href="https://github.com/elgordogato/explore-with-me"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elgordogato&repo=explore-with-me&theme=transparent&hide_border=true"  alt="Top Repositories"/></a>                                                       | <a href="https://github.com/elgordogato/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgordogato&layout=compact&theme=transparent&hide_border=true" /></a> |)
+
+[//]: # ()
 
 
 
