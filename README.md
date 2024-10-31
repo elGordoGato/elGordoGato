@@ -1,7 +1,7 @@
 <p><img align='right' width="235" 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" alt="awesome cat"/></p>
 
-<h1 align="center">Hi, I’m Leonid 👋</h1>
+<h2 align="center">Hi, I’m Leonid 👋</h2>
 
 <h5 align="center">
 “Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” <br>
@@ -89,12 +89,7 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 <p>
 <img align="right" src="https://komarev.com/ghpvc/?username=elGordoGato&style=flat-square&color=green" alt="" />
 
-<details><summary><strong>🌟 Fun fact</strong></summary>
 
- `I'm a former seafarer 🚢`
-
-
-</details>
 
 
 <!--
