@@ -40,8 +40,7 @@
     <code><img title="Kafka" alt="Kafka" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/></code></a>
 </p>
 
-
----
+&nbsp;
 
 ### 📚 Projects
 Here are some of the projects that I have worked on or contributed to:
