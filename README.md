@@ -1,6 +1,6 @@
 <p><img align='right' width="235" alt="awesome cat" style="border: 2px solid rgba(128, 128, 128, 0.5);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif"/></p>
 
-<h1 align="center">Hi, I’m Leonid 👋</h1>
+<h3 align="center">Hi, I’m Leonid 👋</h3>
 
 <h5 align="center">
 “Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” <br>
@@ -87,7 +87,7 @@ and an algorithm for selecting film recommendations based on the ratings of simi
 
 <h3 align="center"> 📫 Contact Me<br><br>
 
-  <a href="https://linkedin.com/in/elgordogato"><img align='center' height="32" src="icons/linkedin.png"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/kozhenkin/"><img align='center' height="32" src="icons/linkedin.png"></a> &nbsp;
   <a href="mailto:lkozhenkin@gmail.com"><img align='center' height="35" src="icons/gmail.png"></a> &nbsp;
   <a href="https://t.me/kumar_lv"><img align='center' height="30" src="icons/telegram.svg"></a>
 
