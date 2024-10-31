@@ -1,7 +1,6 @@
-<p><img align='right' width="235" 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" alt="awesome cat"/></p>
+<p><img align='right' width="235" alt="awesome cat" style="border: 2px solid rgba(128, 128, 128, 0.5);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3IzcjFmNm9jbDVzYXN2dWg5OGE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif"/></p>
 
-<h2 align="center">Hi, I’m Leonid 👋</h2>
+<h1 align="center">Hi, I’m Leonid 👋</h1>
 
 <h5 align="center">
 “Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” <br>
@@ -15,9 +14,11 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <code><img title="Java" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/></code></a>
+  <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer">
+    <code><img title="Kotlin" alt="Kotlin" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/></code></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <code><img title="Spring" alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/></code></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <code><img title="Linux" alt="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <code><img title="Docker" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code></a>
@@ -25,9 +26,20 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRoOHhrb3JwM3ZkaWh5YW1xb3
     <code><img title="Git" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"/></code></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <code><img title="PostgreSql" alt="PostgreSql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/></code></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <code><img title="Postman"  alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <code><img title="MySQL" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <code><img title="MongoDB" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/></code></a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <code><img title="Hibernate" alt="Hibernate" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg"/></code></a>
+  <a href="https://projectreactor.io/" target="_blank" rel="noreferrer">
+    <code><img title="Project Reactor" alt="Project Reactor" height="40" src="https://github.com/reactor/reactor-core/blob/main/docs/modules/ROOT/assets/images/logo.png?raw=true"/></code></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <code><img title="Kubernetes" alt="Kubernetes" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"/></code></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <code><img title="Kafka" alt="Kafka" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"/></code></a>
 </p>
+
 
 ---
 
